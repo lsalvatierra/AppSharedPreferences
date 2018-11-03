@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSharedPreferences</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_iniciar">Iniciar sesión</string>
+    <string name="lbl_cerrar">Cerrar sesión</string>
+</resources>
